@@ -5,3 +5,5 @@ data
 logs
 target
 
+/.project
+/.settings/
